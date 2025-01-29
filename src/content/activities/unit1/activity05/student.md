@@ -74,4 +74,4 @@ function drawGaussianCurve() {
 
 Para el ejemplo grafiqué con ayuda de ChatGPT un diagrama que trazara una curva para poder visualizar la estrucura de la campana de Gauss en este tipo de distribución.
 
-![image](https://github.com/user-attachments/assets/f0ecc99a-ff3a-45e5-8d81-eb5b39841baa)
+![img_a5](../../../../assets/a5.png)
