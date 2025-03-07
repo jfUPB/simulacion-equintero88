@@ -9,3 +9,7 @@ Los elementos se dibujan en 0,0 y siguen rotando porque en cada frame el sistema
 
 El motion 101 se aplica dándole al objeto en pantalla una aceleración según el mouse.
 
+1. El método heading() devuelve el ángulo de un vector respecto al eje x del canvas, es decir, hacia qué dirección apunta el objeto.
+2. push() y pop() se usan para manejar el stack, en el que se están almacenando las transformaciones del objeto.
+3. rectMode(CENTER) hace que el rectángulo se dibuje desde su centro. Esto permite que el rectángulo, al rotar, gire desde su centro y no desde una esquina.
+4. La rotación del rectángulo sigue la dirección del vector de velocidad.
