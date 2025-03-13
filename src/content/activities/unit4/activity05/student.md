@@ -9,3 +9,4 @@ No se ejecuta el código porque en el fragmento propuesto no están definidas ni
 
 ### Segunda modificación
 
+La segunda modificación tiene el mismo resultado que el código original pero la diferencia está en que las coordenadas las guarda en un vector v.
