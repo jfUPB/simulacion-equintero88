@@ -27,4 +27,8 @@ Agregué de nuevo una fuerza viento que se controla bajo otro concepto de aleato
 
 Para esta simulación volví al concepto de aceleración y modifiqué las partículas "Confeti" para que tuviera más o menos aceleración, y según esto, caerían y rebotarían con mayor o menor intensidad.
 
-### Cuarta [simulación]()
+### Cuarta [simulación](https://editor.p5js.org/equintero88/sketches/ty6LrlFmw)
+
+![image](https://github.com/user-attachments/assets/4384a704-311e-4f0c-8b33-e7d24c088f0d)
+
+Para este cuarto modelo implementé el modelo del doble péndulo para generar comportamientos impredecibles y abruptos, además de otro "emitter".
