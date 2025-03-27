@@ -32,3 +32,9 @@ Para esta simulación volví al concepto de aceleración y modifiqué las partí
 ![image](https://github.com/user-attachments/assets/4384a704-311e-4f0c-8b33-e7d24c088f0d)
 
 Para este cuarto modelo implementé el modelo del doble péndulo para generar comportamientos impredecibles y abruptos, además de otro "emitter".
+
+### [Quinta simulación](https://editor.p5js.org/equintero88/sketches/JEq8XP7QX)
+
+![image](https://github.com/user-attachments/assets/329726cd-93b9-4c05-a813-a423fd2252cf)
+
+Para la quinta simulación implementé dos conceptos (uno de esta unidad y otro de nuevo de la unidad anterior). Al repeller le implementé el concepto del péndulo y creé dos emitters, los dos en lados diferentes del canvas y con una propiedad que cambia muy importante: la dirección de la fuerza del viento. Lo que pasa entonces en la simulación es que las partículas están saliendo disparadas hacia el centro del canvas, donde se encuentra el repeller moviéndose de forma pendular, entonces chocan allí.
