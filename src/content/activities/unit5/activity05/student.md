@@ -1,24 +1,27 @@
-## ¿La unidad fue demasiado fácil, equilibrada o demasiado difícil? ¿Por qué?
+## ¿Consideras que entiendes mejor el polimorfismo? ¿Por qué si o por qué no?
 
-Pienso que esta unidad fue equilibrada. Pues creo que en realidad lo único que hay que entender es cómo funcionan los sistemas de partículas y su gestión en la memoria.
-De resto, los conceptos que utilizamos para manipular estos sistemas de partículas son los mismos que las unidades anteriores.
+Sí, creo que entiendo de forma más clara el concepto de polimorfismo porque he podido ver cómo puedo implementar para un mismo sistema, y a partir de una misma función, diferentes comportamientos, según las necesidades que planteo para el sistema. Creo que el hecho de ver en pantalla qué es lo que está pasando y reconocer 
+qué está haciendo una cosa o la otra, facilita la comprensión de esto.
 
-## ¿El tiempo asignado fue adecuado?
+## ¿Qué partes de esta unidad te resultaron más fáciles? ¿Por qué?
 
-Sí, entendiendo en la semana en la que estamos, creo que el tiempo fue adecuado para terminar la unidad, entendiendo también que al ser trabajo autónomo pues unas personas
-demoran más y otras menos, creo que la carga estuvo balanceada.
+Creo que aplicar los conceptos de las unidades pasadas, por el hecho de que en cada unidad hemos estado haciendo eso, entonces puedo recordar con facilidad qué es lo
+que podría implementar. Además de, obviamente, por la ayuda del libro guía.
 
-## ¿Qué tan útil fue la estructura de la unidad? ¿Cómo se podrían mejorar?
+## Si pudieras repetir esta unidad, ¿Qué harías diferente para mejorar tu comprensión de los conceptos?
 
-Siento que la estructura de la unidad podría ser un poco más dinámica. Por ejemplo la actividad 2 es hacer lo mismo 5 veces seguidas, lo que puede ser un poco agotador
-y se puede perder la motivación fácilmente para hacerlo de una manera consciente. Creo que se pueden pensar en otras formas de sí, recorrer y revisar los diferentes 
-conceptos que implican los sistemas de partículas pero a través de actividades más cambiantes entre sí, que impliquen que hagamos cosas diferente. De esta forma, podemos
-sentirnos más motivados para realizar las actividades y al mismo tiempo repasar los conceptos desde diferentes perspectivas.
+Creo que la parte más importante está en la herencia y el polimorfismo, así que creo que enfocaría en general la unidad un poco más en eso.
 
- ## ¿Qué fue lo mejor de esta unidad? ¿Qué te gustaría que se hiciera diferente?
+## ¿Crees que lo que aprendiste en esta unidad te servirá en futuros proyectos? ¿Por qué si o por qué no?
 
-Lo mejor de esta unidad fue conocer los diferentes sistemas de partículas porque siento que realmente puede ser muy útil; pero al mismo tiempo, como lo expliqué en el punto anterior, creo que pudo plantearse de mejor forma.
+Creo que sí porque me interesa mucho el diseño generativo y quiero adentrarme más en TouchDesigner, y allí también existe la posibilidad de usar sistemas de partículas. Aunque no haya que programarlas desde cero, pienso que entender estas estructuras básicas puede darme un plus a la hora de manipular cualquier sistema
+de partículas.
 
-## ¿Qué cambiarías y por qué?
+## ¿Qué parte de esta unidad te gustaría profundizar más? ¿Por qué?
 
-Lo que expliqué en el punto 3. 
+Creo que en explorar más a fondo el polimorfismo, porque pienso que experimentando con él más a profundidad se pueden llegar a diversos resultados que se salgan un
+poco de la línea de lo que ya he venido haciendo, porque a veces siento que es fácil quedarse sin ideas.
+
+## ¿Qué concepto de esta unidad se podría aplicar a tu área de interés profesional? ¿Por qué?
+
+Todo lo relacionado al sistema de partículas, como lo expliqué en la pregunta #4.
