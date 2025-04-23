@@ -33,3 +33,8 @@ aceleración del vehicle.
 - Steer
 
 ### Describe la modificación que realizaste al código y explica detalladamente el efecto que tuvo en el movimiento y comportamiento colectivo de los agentes. Incluye una captura de pantalla o GIF si ilustra bien el cambio. Muestra el fragmento de código modificado.
+
+
+Modifiqué el código para que las celdas fueran más distintas entre sí. Es decir, modifiqué la variación del Perlin Noise (xoff y yoff). También modifiqué el _steer_ que es el vector de dirección. Lo multipliqué para exagerar su efecto.
+
+# [Link de la simulación](https://editor.p5js.org/natureofcode/full/egribz8WV)
