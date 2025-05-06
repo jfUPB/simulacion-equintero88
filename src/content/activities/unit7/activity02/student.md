@@ -5,3 +5,12 @@
 - **Composite:** Grupo de cuerpos y conexiones/obligaciones controlados como una sola unidad.
 - **Render:** El elemento a partir del cual se visualizan las simulaciones.
 - **Runner:** Sería el draw() o el update().
+
+
+### Primera [modificicación](https://editor.p5js.org/equintero88/sketches/_NVdJ6vcD) 
+
+En esta agrego una propiedad de rebote para todos los rectángulos que se creen.
+
+### Segunda [modificación](https://editor.p5js.org/equintero88/sketches/5ZC8ijNp3)
+
+En esta creo dos cuerpos que pueden chocar entre sí agarrándolos con el mouse.
