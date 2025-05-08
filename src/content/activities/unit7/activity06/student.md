@@ -18,3 +18,7 @@ que se nos propone.
 Siento que es adecuado por la cantidad de actividades, pero no en el sentido de que debemos de aprender a manejar una librería nueva. Y teniendo en cuenta que es de las
 últimas unidades y el tiempo a estas alturas del semestre es bastante escaso, no se puede tomar toda la libertad de explorarlo lo suficiente para entenderlo de la mejor
 manera, entendiendo que los procesos de aprendizaje de cada persona son diferentes.
+
+## Sugerencia
+
+Dar un acercamiento diferente a Matter.js y abordarlo más claramente para poder enfrentar el reto. Pero en principio, creo que expondría la librería en una unidad anterior, más al principio, para poder explorarla con mayor tranquilidad. Es muy diferente a las otras unidades que los temas son como una continuación del anterior, entonces el aprendizaje y adaptación al marco teórico puede ser más adaptable.
