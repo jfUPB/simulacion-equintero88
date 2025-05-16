@@ -1,30 +1,22 @@
-## Estructura y flujo general:
+## Aplicación del conocimiento
 
-Me pareció que las primeras 6 unidades son muy coherentes en el proceso de aprendizaje y progresión en los conceptos. La unidad 7 no me terminó de convencer por que
-aunque se relaciona el tema de las físicas, se siente como un tema diferente.
+Puesto que estuve en TouchDesigner me resultó mucho más fácil aplicar los conceptos y ver los resultados visuales de forma inmediata, tener más control sobre esto.
+Sin embargo, siento que todo el conocimiento del curso puedo llevarlo de manera eficiente a otro software como Touch, pensando en otro tipo de implementaciones también, como los Flow Fields, que ya investigué y vi de qué forma puedo crearlos.
 
-Sí me pareció que la estructura de introducción, investigación, aplicación y reflexión fue útil, pero muchas veces la última se tornaba algo repetitiva.
+## Gestión de la complejidad
 
-## Equilibrio teoría/práctica
+Creo que en p5 si me hubiese tomado mucho más tiempo, pero en Touch me resultó más fácil, y pude enfocarme más en la parte visual, no tanto en la detección de sonidos o gestión de las partículas.
 
-Sí, especialmente porque muchas actividades era revisar o cambiar ejercicios teóricos del libro.
+## Logro del objetivo
 
-## Dificultad y ritmo
+Sí, siento que lo hace de la forma en que esperaba y tiene una muy buena respuesta, visible.
 
-Pienso que en general estuvo bien. La unidad 5 aunque tenía pocas actividades, una de ellas era muy largas y monótona.
+## Evolución personal
 
-## Recursos y apoyo
+Siento que amplié mucho el panorama en cuanto a las formas de realizar proyectos o llevar a cabo conceptos que impliquen aleatoriedad. Antes, hubiese pensado
+en generar un número aleatorio o a lo mucho una variación simple o continua, pero ahora creo que tengo la capacidad de pensar en diferentes formas de implementar
+aleatoriedad y cómo tener control sobre ello.
 
-Sí, siempre se sintió el apoyo y la disponilidad del profesor.
+## Confianza y próximos pasos
 
-## Aspecto más valioso
-
-Otras formas de pensar en la aleatoriedad y entenderla, más que solamente en generar valores aleatorios entre un número u otro, que era como lo hacía antes. Ahora tengo
-más herramientas (y las entiendo) para hacer diseños aleatorios mucho más dinámicos e interesantes
-
-## Sugerencia de mejora general
-
-Creo que revisaría la unidad 7 y trataría también variar un poco (tampoco mucho) las dinámicas entre una unidad y otra, para que cuando se está en esa fase de transición
-entre terminar una unidad y empezar otra, no se sienta que se va a realizar lo mismo, sino variar un poco. 
-
-También reduciría un poco las preguntas de la fase de metacognición, pues a veces se vuelve repetitivo y uno no sabe qué más responder (no siempre).
+Siento mucha más confianza y creo que tengo la capacidad para abordar un proyecto de este tipo. Me gustaría explorar mucho más la parte de los campos de flujo, especialmente en TouchDesigner.
